@@ -43,21 +43,9 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamlanoufer&show_icons=true&theme=rose_pine&hide_border=false" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shamlanoufer&theme=rose_pine&hide_border=false" alt="Streak Stats" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)][(https://www.linkedin.com/in/shamlanoufer) ](http://linkedin.com/in/shamla-noufer-8505742b4) 
+[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)[(https://www.linkedin.com/in/shamlanoufer) ](http://linkedin.com/in/shamla-noufer-8505742b4) 
 
 ---
 
