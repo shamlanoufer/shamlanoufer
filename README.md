@@ -45,7 +45,8 @@
 
 ### 📫 Connect With Me
 
-[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)[(https://www.linkedin.com/in/shamlanoufer) ](http://linkedin.com/in/shamla-noufer-8505742b4) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shamla-noufer-8505742b4)  
+[![X](https://img.shields.io/badge/X-black?style=flat&logo=twitter)](https://x.com/noufershamla?s=21)
 
 ---
 
