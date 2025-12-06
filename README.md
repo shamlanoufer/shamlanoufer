@@ -84,7 +84,7 @@ MySQL · MongoDB (NoSQL) · Database Design & Management
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="50" height="50" alt="JSON"/>
 </p>
 
-### **Tools & Platforms**
+### 🛠️ Tools & Platforms
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
@@ -92,18 +92,25 @@ MySQL · MongoDB (NoSQL) · Database Design & Management
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="50" height="50" alt="NetBeans"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" width="50" height="50" alt="XAMPP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="50" height="50" alt="Cisco"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969071.png" width="50" height="50" alt="XAMPP"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="50" height="50" alt="Cisco"/>
 </p>
+
 
 
 ---
 
-## 📫 Connect With Me
+### 📬 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shamla-noufer-8505742b4)  
-[![X](https://img.shields.io/badge/X-black?style=flat&logo=twitter)](https://x.com/noufershamla?s=21)
+  <a href="https://x.com/YOUR-X-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
 
 ---
 
