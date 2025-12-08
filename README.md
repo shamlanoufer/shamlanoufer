@@ -54,7 +54,7 @@ MySQL · MongoDB (NoSQL) · Database Design & Management
 
 ---
 
-## 🚀 Tech Stack Badges
+## 🚀 Tech Stack 
 
 ### **Languages & Scripting**
 <p align="left">
